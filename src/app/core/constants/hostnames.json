@@ -1,0 +1,15 @@
+{
+  "offline": {
+    "get-mock-data": "MOCK_DATA.json",
+    
+    "TEST-OFFLINE": "TEST-OFFLINE"
+  },
+  "BASE": {
+    "localhost": "/assets/api/mock/",
+
+    "TEST-BASE": "/TEST-BASE/"
+  },
+  "online": {
+    "TEST-ONLINE": "TEST-ONLINE"
+  }
+}

@@ -1,0 +1,13 @@
+
+.broken-wrapper {
+  display: flex;
+  flex-direction: column;
+
+  h2, p, .image {
+    align-self: center;
+  }
+
+  .image {
+    margin-top: 2em;
+  }
+}
